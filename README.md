@@ -7,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=19-ade.19-ade)
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
  
 
 hi, i'm [Anwesan De](https://19-ade.github.io/Portfolio/), 
