@@ -8,13 +8,14 @@
 
 <br />
 
+
+ 
+
 hi, i'm [Anwesan De](https://19-ade.github.io/Portfolio/), 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. I love learning and applying Machine Learning models and algorithms.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+ 
 
 💬 ask me about anything, i am happy to help;
 
@@ -24,4 +25,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19-ade)](https://github.com/anuraghazra/github-readme-stats)
