@@ -12,7 +12,7 @@
 
 Hi, i'm [Anwesan De](https://19-ade.github.io/Portfolio/), 
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. I love learning and applying Machine Learning models and algorithms.
+I love learning and applying Machine Learning models and algorithms.
 
 💬 ask me about anything, i am happy to help;
 
