@@ -27,14 +27,13 @@ I love learning and applying Machine Learning models and algorithms.
 
 
 
+| Github Stats | Github Streak |
+|--------------|---------------|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19-ade) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19-ade&show_icons=true&theme=dark)  |
 
 
 
-[![Anwesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=19-ade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19-ade)](https://github.com/anuraghazra/github-readme-stats)
 
 **My Latest Medium Article:**
 
