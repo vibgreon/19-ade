@@ -35,7 +35,7 @@ I love learning and applying Machine Learning models and algorithms.
 
 
 
-**My Latest Medium Article:**
+**My Latest Towards Data Science Article:**
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=anwesande)](https://medium.com/@anwesande)
 
